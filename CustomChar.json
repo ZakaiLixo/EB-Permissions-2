@@ -1,0 +1,78 @@
+{
+    "PlayerPermission": {
+        "DarkLuffy128": {
+            "Tier": 1000
+        },
+        "itz_kevin501": {
+            "Tier": 1000
+        },
+        "FenoDev": {
+            "Tier": 1000
+        },
+        "ZakaiDev": {
+            "Tier": 1
+        }
+    },
+    "Characters": {
+        "Baki": {
+            "Tier": 1,
+            "Permission": [4303421179],
+            "ImageID": 103953194753301
+        },
+        "Meliodas": {
+            "Tier": 1,
+            "Permission": [1, 1, 1, 1, 1],
+            "ImageID": 103610124487112
+        },
+        "D4C": {
+            "Tier": 100,
+            "Permission": [],
+            "ImageID": 116216959518179
+        },
+        "Enrico": {
+            "Tier": 1,
+            "Permission": [4303421179, 4303421180],
+            "ImageID": 79964775182960
+        },
+        "Sukuna": {
+            "Tier": 100,
+            "Permission": [4303421179, 4303421180],
+            "ImageID": 125075795223226
+        },
+        "Subaru": {
+            "Tier": 1,
+            "Permission": [],
+            "ImageID": 103991282927018
+        },
+        "Armin": {
+            "Tier": 1000,
+            "Permission": [1],
+            "ImageID": 105648698997308
+        },
+        "Giorno": {
+            "Tier": 1000,
+            "Permission": [],
+            "ImageID": 112903681985570
+        },
+        "Guissi": {
+            "Tier": 1000,
+            "Permission": [1],
+            "ImageID": 112903681985570
+        },
+        "Escanor": {
+            "Tier": 1,
+            "Permission": [],
+            "ImageID": 113089955878697
+        },
+        "Toji": {
+            "Tier": 100,
+            "Permission": [],
+            "ImageID": 102136822840768
+        },
+        "Johnny": {
+            "Tier": 100,
+            "Permission": [],
+            "ImageID": 5026879765
+        }
+    }
+}
